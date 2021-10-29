@@ -1,9 +1,3 @@
-###########################################
-# 2020.08.31
-# python 3.7.5
-# pytorch 1.4.0
-###########################################
-
 import pandas as pd
 import torch
 import torch.nn as nn
